@@ -1,24 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import Navigation from './Components/Navbar';
+import "bootstrap/dist/css/bootstrap.min.css"
+import AccordionTest from './Components/Carousel/carousel';
+import BasicExample from './Components/Navbar';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hola yisus comamos pizzas
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Navigation/>
+    </>
   );
 }
 
