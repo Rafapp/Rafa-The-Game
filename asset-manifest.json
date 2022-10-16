@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rafa-The-Game/static/css/main.4ea24607.css",
-    "main.js": "/Rafa-The-Game/static/js/main.d5e82a8e.js",
+    "main.js": "/Rafa-The-Game/static/js/main.f4bb2293.js",
     "static/js/787.28cb0dcd.chunk.js": "/Rafa-The-Game/static/js/787.28cb0dcd.chunk.js",
     "static/media/TakaTaka.gif": "/Rafa-The-Game/static/media/TakaTaka.ca5828955f98eb19bdaf.gif",
     "static/media/SumoCover.gif": "/Rafa-The-Game/static/media/SumoCover.94be8c9859b07eea4738.gif",
@@ -11,14 +11,17 @@
     "static/media/ThreadAhead.gif": "/Rafa-The-Game/static/media/ThreadAhead.8a12ca01cc0c09bbfb83.gif",
     "static/media/RetroNinja.gif": "/Rafa-The-Game/static/media/RetroNinja.e59d97bb196d49287059.gif",
     "static/media/maze.gif": "/Rafa-The-Game/static/media/maze.e36213a24b4f0b3fbafa.gif",
+    "static/media/github.png": "/Rafa-The-Game/static/media/github.d826b7b881594d3e0155.png",
     "static/media/RafaIcon.png": "/Rafa-The-Game/static/media/RafaIcon.e7341b09b9c69f38e5c5.png",
+    "static/media/email.png": "/Rafa-The-Game/static/media/email.f2e217b2a3a830050416.png",
+    "static/media/lin.png": "/Rafa-The-Game/static/media/lin.262c2bc6a9da67b873f9.png",
     "index.html": "/Rafa-The-Game/index.html",
     "main.4ea24607.css.map": "/Rafa-The-Game/static/css/main.4ea24607.css.map",
-    "main.d5e82a8e.js.map": "/Rafa-The-Game/static/js/main.d5e82a8e.js.map",
+    "main.f4bb2293.js.map": "/Rafa-The-Game/static/js/main.f4bb2293.js.map",
     "787.28cb0dcd.chunk.js.map": "/Rafa-The-Game/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea24607.css",
-    "static/js/main.d5e82a8e.js"
+    "static/js/main.f4bb2293.js"
   ]
 }
