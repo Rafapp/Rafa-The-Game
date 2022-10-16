@@ -2,13 +2,14 @@
 import Carousel from 'react-bootstrap/Carousel'
 
 // Slides
-import RafaIcon from "../Img/RafaIcon.png"
 import Swerve from "../Img/swerve.gif"
 import TakaTaka from "../Img/TakaTaka.gif"
 import ThreadAhead from "../Img/ThreadAhead.gif"
 import RetroNinja from "../Img/RetroNinja.gif"
 import SumoCover from "../Img/SumoCover.gif"
 import Maze from "../Img/maze.gif"
+import VRlab from "../Img/VRlab.gif"
+import HappyPlace from "../Img/HappyPlace.gif"
 
 // Other imports
 
@@ -18,7 +19,7 @@ function Projects() {
     return (
         // Div for section
         <div id='projects'  style={{ position: "absolute", backgroundColor: "black", width:"100vw", paddingBottom:"5vw"}}>
-            <h1 style={{ position: "absolute", textAlign: "center", top: "10%", left: "50%", transform: "translate(-50%, -50%)", color: "white", fontSize: "7vw"}}>
+            <h1 style={{ position: "absolute", textAlign: "center", top: "10%", left: "50%", transform: "translate(-50%, -50%)", background:"linear-gradient(to right, #ef32d9 0%, #89fffd 100%)",WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", fontSize: "7vw"}}>
                 My projects:
             </h1>
             <div style={{ position: "relative", width: "50vw", paddingTop: "15%", left:"25%"}}>
@@ -68,7 +69,7 @@ function Projects() {
                     <Carousel.Item interval={slideInterval}>
                         <img
                             className="d-block w-100"
-                            src={RafaIcon}
+                            src={HappyPlace}
                             alt="Third slide"
                             style={{  height: "50vw", objectFit:"cover"}}
                         />
@@ -82,7 +83,7 @@ function Projects() {
                     <Carousel.Item interval={slideInterval}>
                         <img
                             className="d-block w-100"
-                            src={RafaIcon}
+                            src={VRlab}
                             alt="Third slide"
                             style={{  height: "50vw", objectFit:"cover"}}
                         />
