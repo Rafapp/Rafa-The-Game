@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rafa-The-Game/static/css/main.4ea24607.css",
-    "main.js": "/Rafa-The-Game/static/js/main.81cbeafb.js",
+    "main.js": "/Rafa-The-Game/static/js/main.d5e82a8e.js",
     "static/js/787.28cb0dcd.chunk.js": "/Rafa-The-Game/static/js/787.28cb0dcd.chunk.js",
     "static/media/TakaTaka.gif": "/Rafa-The-Game/static/media/TakaTaka.ca5828955f98eb19bdaf.gif",
     "static/media/SumoCover.gif": "/Rafa-The-Game/static/media/SumoCover.94be8c9859b07eea4738.gif",
@@ -14,11 +14,11 @@
     "static/media/RafaIcon.png": "/Rafa-The-Game/static/media/RafaIcon.e7341b09b9c69f38e5c5.png",
     "index.html": "/Rafa-The-Game/index.html",
     "main.4ea24607.css.map": "/Rafa-The-Game/static/css/main.4ea24607.css.map",
-    "main.81cbeafb.js.map": "/Rafa-The-Game/static/js/main.81cbeafb.js.map",
+    "main.d5e82a8e.js.map": "/Rafa-The-Game/static/js/main.d5e82a8e.js.map",
     "787.28cb0dcd.chunk.js.map": "/Rafa-The-Game/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea24607.css",
-    "static/js/main.81cbeafb.js"
+    "static/js/main.d5e82a8e.js"
   ]
 }
