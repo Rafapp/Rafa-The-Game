@@ -5,7 +5,7 @@ import RafaIcon from "../Img/RafaIcon.png"
 
 function NavigationBar() {
   return (
-    <Navbar expand="lg" variant="dark" sticky='top'bg='dark'>
+    <Navbar expand="lg" variant="dark" fixed='top' bg='dark'>
       <Container>
           <img
             src={RafaIcon}
