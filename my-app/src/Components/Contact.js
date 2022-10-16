@@ -31,7 +31,7 @@ function Contact() {
             </div>
             <div style={{position:"absolute", top:"75%", right:"8%"}}>
                 <Button href='mailto: rpadiper@gmail.com' variant='dark'  style={{ width: "25vw", height: "7vw", fontSize: "2.5vw", whiteSpace: "nowrap", background:"linear-gradient(160deg, #0093E9 0%, #80D0C7 100%)"}}>Contact e-mail</Button>
-                <p style={{color:"white", paddingTop:"5%", textAlign:"center"}}>rpadiper@gmail.com</p>
+                <p style={{color:"white", paddingTop:"5%", textAlign:"center", fontSize:"2vw"}}>rpadiper@gmail.com</p>
             </div>
         </div>
     );
