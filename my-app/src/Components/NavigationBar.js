@@ -5,7 +5,7 @@ import RafaIcon from "../Img/RafaIcon.png"
 
 function NavigationBar() {
   return (
-    <Navbar expand="lg" variant="dark" fixed='top' style={{background:"linear-gradient(to bottom, #1e2124 50%, #282b30 100%)"}}>
+    <Navbar expand="lg" variant="dark" fixed='top' style={{background:"linear-gradient(to bottom, hsla(0, 0%, 0%, 1) 0%, hsla(0, 0%, 13%, 1) 100%)"}}>
       <Container>
           <img
             src={RafaIcon}

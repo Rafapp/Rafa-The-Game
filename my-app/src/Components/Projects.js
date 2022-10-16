@@ -18,7 +18,7 @@ var slideInterval = 4000;
 function Projects() {
     return (
         // Div for section
-        <div id='projects'  style={{ position: "absolute", background:"linear-gradient(to bottom, #1e2124 50%, #282b30 100%", width:"100vw", paddingBottom:"5vw"}}>
+        <div id='projects'  style={{ position: "absolute", background:"linear-gradient(to top, hsla(0, 0%, 0%, 1) 0%, hsla(0, 0%, 13%, 1) 100%)", width:"100vw", paddingBottom:"5vw"}}>
             <h1 style={{ position: "absolute", textAlign: "center", top: "10%", left: "50%", transform: "translate(-50%, -50%)", background:"linear-gradient(to right, #FF5F6D 0%, #FFC371 100%)",WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", fontSize: "7vw"}}>
                 My projects:
             </h1>
