@@ -8,6 +8,8 @@ import Cover from './Components/Cover';
 import NavigationBar from "./Components/NavigationBar";
 import About from "./Components/About";
 import Projects from "./Components/Projects";
+import Contact from "./Components/Contact";
+import Copyright from "./Components/Copyright";
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
       <Cover/>
       <About/>
       <Projects/>
+      <Contact/>
+      <Copyright/>
     </>
   );
 }
