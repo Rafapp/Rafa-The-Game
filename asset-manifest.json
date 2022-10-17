@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rafagamedev/static/css/main.4ea24607.css",
-    "main.js": "/Rafagamedev/static/js/main.de32b90d.js",
+    "main.js": "/Rafagamedev/static/js/main.21640ab8.js",
     "static/js/787.28cb0dcd.chunk.js": "/Rafagamedev/static/js/787.28cb0dcd.chunk.js",
     "static/media/TakaTaka.gif": "/Rafagamedev/static/media/TakaTaka.ca5828955f98eb19bdaf.gif",
     "static/media/SumoCover.gif": "/Rafagamedev/static/media/SumoCover.94be8c9859b07eea4738.gif",
@@ -17,11 +17,11 @@
     "static/media/lin.png": "/Rafagamedev/static/media/lin.262c2bc6a9da67b873f9.png",
     "index.html": "/Rafagamedev/index.html",
     "main.4ea24607.css.map": "/Rafagamedev/static/css/main.4ea24607.css.map",
-    "main.de32b90d.js.map": "/Rafagamedev/static/js/main.de32b90d.js.map",
+    "main.21640ab8.js.map": "/Rafagamedev/static/js/main.21640ab8.js.map",
     "787.28cb0dcd.chunk.js.map": "/Rafagamedev/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea24607.css",
-    "static/js/main.de32b90d.js"
+    "static/js/main.21640ab8.js"
   ]
 }
