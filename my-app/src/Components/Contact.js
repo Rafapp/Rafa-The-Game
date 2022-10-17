@@ -8,7 +8,7 @@ import React from "react";
 function Contact() {
     return (
         <div style={{display: 'flex', position:"relative", justifyContent:'center', alignItems:'center', height: 'auto', width: 'auto', paddingTop:"60%"}}>
-            <h1 id="contact" style={{ position: "absolute", top: "7.5%", textAlign: "center", left: "50%", transform: "translate(-50%, -50%)", background: "linear-gradient(to right, #FF5F6D 0%, #FFC371 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", fontSize: "7vw" }}>
+            <h1 id="contact" style={{ position: "absolute", top: "7.5%", textAlign: "center", left: "50%", transform: "translate(-50%, -50%)", background: "linear-gradient(to right, #FF5F6D 0%, #FFC371 100%)", WebkitBackgroundClip: "text", WebkitTextFillColor: "transparent", fontSize: "7vw",clipPath:"inset(1px)" }}>
                 Contact:
             </h1>
 

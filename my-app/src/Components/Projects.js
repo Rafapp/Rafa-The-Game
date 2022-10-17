@@ -19,7 +19,7 @@ function Projects() {
     return (
         // Div for section
         <div id='projects'  style={{display:"flex", position: "relative", background:"linear-gradient(to top, hsla(0, 0%, 0%, 1) 0%, hsla(0, 0%, 13%, 1) 100%)", width:"100%", paddingBottom:"5vw"}}>
-            <h1 style={{ position: "absolute", textAlign: "center", top: "10%", left: "50%", transform: "translate(-50%, -50%)", background:"linear-gradient(to right, #FF5F6D 0%, #FFC371 100%)",WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", fontSize: "7vw"}}>
+            <h1 style={{ position: "absolute", textAlign: "center", top: "10%", left: "50%", transform: "translate(-50%, -50%)", background:"linear-gradient(to right, #FF5F6D 0%, #FFC371 100%)",WebkitBackgroundClip:"text", WebkitTextFillColor:"transparent", fontSize: "7vw", clipPath:"inset(1px)"}}>
                 My projects:
             </h1>
             <div style={{ position: "relative", width: "100%", paddingTop: "15%"}}>
