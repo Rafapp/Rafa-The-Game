@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Rafagamedev/static/css/main.4ea24607.css",
-    "main.js": "/Rafagamedev/static/js/main.c8c1a413.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Rafagamedev/static/js/787.28cb0dcd.chunk.js",
-    "static/media/TakaTaka.gif": "/Rafagamedev/static/media/TakaTaka.ca5828955f98eb19bdaf.gif",
-    "static/media/SumoCover.gif": "/Rafagamedev/static/media/SumoCover.94be8c9859b07eea4738.gif",
-    "static/media/HappyPlace.gif": "/Rafagamedev/static/media/HappyPlace.2e3fdb717414a1446c40.gif",
-    "static/media/VRlab.gif": "/Rafagamedev/static/media/VRlab.95f9c992f155785c9f94.gif",
-    "static/media/swerve.gif": "/Rafagamedev/static/media/swerve.2d792a35b446d3a98a02.gif",
-    "static/media/ThreadAhead.gif": "/Rafagamedev/static/media/ThreadAhead.8a12ca01cc0c09bbfb83.gif",
-    "static/media/RetroNinja.gif": "/Rafagamedev/static/media/RetroNinja.e59d97bb196d49287059.gif",
-    "static/media/maze.gif": "/Rafagamedev/static/media/maze.e36213a24b4f0b3fbafa.gif",
-    "static/media/RafaPicture.jpg": "/Rafagamedev/static/media/RafaPicture.2e26ae2884f03e524dd3.jpg",
-    "static/media/github.png": "/Rafagamedev/static/media/github.d826b7b881594d3e0155.png",
-    "static/media/RafaIcon.png": "/Rafagamedev/static/media/RafaIcon.e7341b09b9c69f38e5c5.png",
-    "static/media/email.png": "/Rafagamedev/static/media/email.f2e217b2a3a830050416.png",
-    "static/media/lin.png": "/Rafagamedev/static/media/lin.262c2bc6a9da67b873f9.png",
-    "index.html": "/Rafagamedev/index.html",
-    "main.4ea24607.css.map": "/Rafagamedev/static/css/main.4ea24607.css.map",
-    "main.c8c1a413.js.map": "/Rafagamedev/static/js/main.c8c1a413.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Rafagamedev/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.4ea24607.css",
+    "main.js": "/static/js/main.d6b02c13.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/TakaTaka.gif": "/static/media/TakaTaka.ca5828955f98eb19bdaf.gif",
+    "static/media/SumoCover.gif": "/static/media/SumoCover.94be8c9859b07eea4738.gif",
+    "static/media/HappyPlace.gif": "/static/media/HappyPlace.2e3fdb717414a1446c40.gif",
+    "static/media/VRlab.gif": "/static/media/VRlab.95f9c992f155785c9f94.gif",
+    "static/media/swerve.gif": "/static/media/swerve.2d792a35b446d3a98a02.gif",
+    "static/media/ThreadAhead.gif": "/static/media/ThreadAhead.8a12ca01cc0c09bbfb83.gif",
+    "static/media/RetroNinja.gif": "/static/media/RetroNinja.e59d97bb196d49287059.gif",
+    "static/media/maze.gif": "/static/media/maze.e36213a24b4f0b3fbafa.gif",
+    "static/media/RafaPicture.jpg": "/static/media/RafaPicture.2e26ae2884f03e524dd3.jpg",
+    "static/media/github.png": "/static/media/github.d826b7b881594d3e0155.png",
+    "static/media/RafaIcon.png": "/static/media/RafaIcon.e7341b09b9c69f38e5c5.png",
+    "static/media/email.png": "/static/media/email.f2e217b2a3a830050416.png",
+    "static/media/lin.png": "/static/media/lin.262c2bc6a9da67b873f9.png",
+    "index.html": "/index.html",
+    "main.4ea24607.css.map": "/static/css/main.4ea24607.css.map",
+    "main.d6b02c13.js.map": "/static/js/main.d6b02c13.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea24607.css",
-    "static/js/main.c8c1a413.js"
+    "static/js/main.d6b02c13.js"
   ]
 }
